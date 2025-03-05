@@ -1,0 +1,17 @@
+export {default as GoogleIcon} from '../svgIcons/google-icon.svg';
+export {default as Eye} from '../svgIcons/eye.svg';
+export {default as MoveNext} from '../svgIcons/movenext.svg';
+export {default as UsersIcon} from '../svgIcons/users.svg';
+export {default as HomeIcon} from '../svgIcons/home.svg';
+export {default as CalendarIcon} from '../svgIcons/calendar.svg';
+export {default as HideIcon} from '../svgIcons/hideIcon.svg';
+export {default as SearchIcon} from '../svgIcons/searchIcon.svg';
+export {default as ArrowLeftIcon} from '../svgIcons/arrowLeftIcon.svg';
+export {default as LoadingIcon} from '../svgIcons/loadingIcon.svg';
+export {default as DownloadIcon} from '../svgIcons/downloadIcon.svg';
+export {default as CheckCircleIcon} from '../svgIcons/checkCircleIcon.svg';
+export {default as UsersDarkMode} from '../svgIcons/usersDarkMode.svg';
+export {default as HomeDarkMode} from '../svgIcons/homeDarkMode.svg';
+export {default as CalenderDarkMode} from '../svgIcons/calenderDarkMode.svg';
+export {default as NightMode} from '../svgIcons/nightMode.svg';
+export {default as LightMode} from '../svgIcons/lightMode.svg';
